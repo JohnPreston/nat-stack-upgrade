@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: John Preston [JMille]
+  description: Role to upgrade the other nat-stack roles
+  company:
+  license: GPLv3
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  categories:
+  - cloud
+  - cloud:ec2
+dependencies: []
